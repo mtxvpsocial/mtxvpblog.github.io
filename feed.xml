@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Elora and Elora Gorge, Ontario</title>
+        <link href="https://blog.mtxvp.com/elora/"/>
+        <content type="html">Elora and Elora Gorge, Ontario</content>
+        <published>2024-08-02T21:30:00</published>
+    </entry>
+    
+    <entry>
         <title>Historic Quebec City</title>
         <link href="https://blog.mtxvp.com/historic-quebec-city/"/>
         <content type="html">Historic Quebec City</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/california-route-66/"/>
         <content type="html">California, Route 66 in April</content>
         <published>2024-01-21T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Abandoned places in Canada and US</title>
-        <link href="https://blog.mtxvp.com/abandoned-places-in-canada-and-us/"/>
-        <content type="html">Abandoned places in Canada and US</content>
-        <published>2024-01-18T22:30:00</published>
     </entry>
     
 </feed>
