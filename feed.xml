@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Behind the scenes of Toronto Billy Bishop airport</title>
+        <link href="https://blog.mtxvp.com/billy-bishop-airport/"/>
+        <content type="html">Behind the scenes of Toronto Billy Bishop airport</content>
+        <published>2024-08-30T10:23:00</published>
+    </entry>
+    
+    <entry>
         <title>Street clocks and sundials of Canadian towns. How many more are there?</title>
         <link href="https://blog.mtxvp.com/street-clocks-of-canadian-towns/"/>
         <content type="html">Street clocks and sundials of Canadian towns. How many more are there?</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/reptile-zoo/"/>
         <content type="html">Visiting Reptile Zoo</content>
         <published>2024-01-28T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>AWS Free Datasets: Part 1</title>
-        <link href="https://blog.mtxvp.com/aws-free-datasets-part-1/"/>
-        <content type="html">AWS Free Datasets: Part 1</content>
-        <published>2024-01-24T22:30:00</published>
     </entry>
     
 </feed>
