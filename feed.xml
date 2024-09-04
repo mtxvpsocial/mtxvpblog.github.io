@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Reflections</title>
+        <link href="https://blog.mtxvp.com/reflection/"/>
+        <content type="html">Reflections</content>
+        <published>2024-09-04T21:30:00</published>
+    </entry>
+    
+    <entry>
         <title>Behind the scenes of Toronto Billy Bishop airport</title>
         <link href="https://blog.mtxvp.com/billy-bishop-airport/"/>
         <content type="html">Behind the scenes of Toronto Billy Bishop airport</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/york-durham-heritage-railway-uxbridge-station/"/>
         <content type="html">York-Durham Heritage Railway - Uxbridge Station</content>
         <published>2024-02-04T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Visiting Reptile Zoo</title>
-        <link href="https://blog.mtxvp.com/reptile-zoo/"/>
-        <content type="html">Visiting Reptile Zoo</content>
-        <published>2024-01-28T22:30:00</published>
     </entry>
     
 </feed>
