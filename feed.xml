@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Cobourg, Ontario</title>
+        <link href="https://blog.mtxvp.com/cobourg/"/>
+        <content type="html">Cobourg, Ontario</content>
+        <published>2024-09-08T21:30:00</published>
+    </entry>
+    
+    <entry>
         <title>Reflections</title>
         <link href="https://blog.mtxvp.com/reflection/"/>
         <content type="html">Reflections</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/sculpture-garden-at-mcmichael/"/>
         <content type="html">Sculpture Garden at McMichael&#39;s Canadian Collection</content>
         <published>2024-02-11T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>York-Durham Heritage Railway - Uxbridge Station</title>
-        <link href="https://blog.mtxvp.com/york-durham-heritage-railway-uxbridge-station/"/>
-        <content type="html">York-Durham Heritage Railway - Uxbridge Station</content>
-        <published>2024-02-04T22:30:00</published>
     </entry>
     
 </feed>
