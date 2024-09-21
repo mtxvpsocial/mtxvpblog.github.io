@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Port Hope, Ontario</title>
+        <link href="https://blog.mtxvp.com/port-hope/"/>
+        <content type="html">Port Hope, Ontario</content>
+        <published>2024-09-21T21:30:00</published>
+    </entry>
+    
+    <entry>
         <title>Cobourg, Ontario</title>
         <link href="https://blog.mtxvp.com/cobourg/"/>
         <content type="html">Cobourg, Ontario</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/balls-falls-ontario/"/>
         <content type="html">Ball&#39;s Falls, Ontario</content>
         <published>2024-02-18T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Sculpture Garden at McMichael&#39;s Canadian Collection</title>
-        <link href="https://blog.mtxvp.com/sculpture-garden-at-mcmichael/"/>
-        <content type="html">Sculpture Garden at McMichael&#39;s Canadian Collection</content>
-        <published>2024-02-11T22:30:00</published>
     </entry>
     
 </feed>
