@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Summer in Fenelon Falls, ON</title>
+        <link href="https://blog.mtxvp.com/fenelon-falls/"/>
+        <content type="html">Summer in Fenelon Falls, ON</content>
+        <published>2024-10-15T21:30:00</published>
+    </entry>
+    
+    <entry>
         <title>Port Hope, Ontario</title>
         <link href="https://blog.mtxvp.com/port-hope/"/>
         <content type="html">Port Hope, Ontario</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/northumberland-on-around-big-apple/"/>
         <content type="html">Northumberland, ON: Around The Big Apple</content>
         <published>2024-02-25T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Ball&#39;s Falls, Ontario</title>
-        <link href="https://blog.mtxvp.com/balls-falls-ontario/"/>
-        <content type="html">Ball&#39;s Falls, Ontario</content>
-        <published>2024-02-18T22:30:00</published>
     </entry>
     
 </feed>
