@@ -72,7 +72,29 @@
  
 </head>  
 <body>
-    
+      <script type="text/javascript">    
+        var img = document.createElement( "img" );
+        let img_loc = new URL("https://assets2.mtxvp.com/area.png");
+
+        img_loc.searchParams.append('app_referrer', document.referrer);
+        img_loc.searchParams.append('app_domain', window.location.hostname);
+        img_loc.searchParams.append('ts', Date.now());
+
+        const imgUrlParams = new URLSearchParams(window.location.search);
+        imgUrlParams.forEach((v, k) => {
+            img_loc.searchParams.append(k, v);
+        })
+
+        img.src = img_loc.toString()
+        img.alt = "Area Image";
+        img.width="1"; img.height="1"; 
+        img.style="display:none;"
+
+        document.getElementsByTagName( "body" )[0].appendChild( img );
+    </script>
+    <noscript>
+        <img src="https://assets2.mtxvp.com/area.png" width="1" height="1" style="display:none;">
+    </noscript>   
   <div class="container">
     <header class="blog-header py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
@@ -112,7 +134,7 @@
 <img alt="" class="img-fluid blog-image-vertical" src="https://i.postimg.cc/LXcDycFX/00209-vertical-brighton-588x1209-2-1.jpg" /></p>
 <p>Colborne, ON (<a href="https://www.openstreetmap.org/?mlat=44.005130&mlon=-77.887876#map=19/44.005130/-77.887876" target="_blank">Location</a>): <br />
 <img alt="" class="img-fluid blog-image-vertical" src="https://i.postimg.cc/VLBgRZGf/00209-vertical-colborne-20240713-171448-588x1209-2-1.jpg" /></p>
-<p>Cornwall, ON - Lumoureux Park Clock Tower (<a href="https://www.openstreetmap.org/?mlat=45.014993&amp;mlon=-74.726839#map=19/45.014993/-74.726839" target="_blank">Location</a>): <br />
+<p>Cornwall, ON - Lamoureux Park Clock Tower (<a href="https://www.openstreetmap.org/?mlat=45.014993&amp;mlon=-74.726839#map=19/45.014993/-74.726839" target="_blank">Location</a>): <br />
 <img alt="" class="img-fluid blog-image-vertical" src="https://i.postimg.cc/K8XNkTjd/on-cornwall-20250819-160937.jpg" /></p>
 <p>Cornwall, ON - Downtown (<a href="https://www.openstreetmap.org/?mlat=45.018224&amp;mlon=-74.728526#map=19/45.018224/-74.728526" target="_blank">Location</a>): <br />
 <img alt="" class="img-fluid blog-image-vertical" src="https://i.postimg.cc/W45MzhhZ/on-cornwall-downtown-20250819-160314.jpg" /></p>
