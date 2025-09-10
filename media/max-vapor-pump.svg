@@ -1,0 +1,86 @@
+<!--
+Updated SVG coat of arms: steampunk theme.
+- Removed text "Max Vapor Pump"
+- Replaced with complex gear cluster artifact in the center
+- Replaced bottom star/banner element with a gear symbol
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g-bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1b1914" />
+      <stop offset="100%" stop-color="#2f2a21" />
+    </linearGradient>
+    <linearGradient id="g-metal" x1="0" x2="1">
+      <stop offset="0%" stop-color="#725233" />
+      <stop offset="50%" stop-color="#a07a4f" />
+      <stop offset="100%" stop-color="#463422" />
+    </linearGradient>
+    <style><![CDATA[
+      .crest-bg { fill: url(#g-bg); }
+      .shield { fill: url(#g-metal); stroke:#2b1f15; stroke-width:12; }
+      .gear-ring { fill:none; stroke:#423324; stroke-width:22; }
+      .artifact-gear { fill:#3a2a21; stroke:#d6b48a; stroke-width:6; }
+      .banner { fill:#2e1e14; stroke:#d6b48a; stroke-width:4; }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="1400" class="crest-bg" />
+
+  <g transform="translate(600,300)">
+    <g transform="translate(0,60)">
+      <path class="gear-ring" d="M-420,0
+           c30,-10 45,-40 55,-60 18,-38 50,-72 92,-80 40,-8 84,2 120,18 18,8 32,28 54,36 24,9 52,4 78,2 25,-2 48,-11 74,-6 18,3 30,12 44,24 33,30 74,58 78,111 4,54 -34,96 -66,132 -24,26 -63,36 -98,40 -38,4 -69,8 -110,4 -46,-5 -100,-26 -142,-54 -48,-31 -84,-78 -118,-126z"/>
+
+      <path class="shield" d="M-300,10
+            q-40,120 0,260 q100,220 300,230 q200,-10 300,-230 q40,-140 0,-260 z" transform="translate(30,40) scale(0.9)"/>
+
+      <!-- Center artifact: complex gear cluster -->
+      <g transform="translate(40,160) scale(1.2)">
+        <!-- big gear -->
+        <circle r="100" class="artifact-gear" />
+        <circle r="60" fill="#2b1f15" />
+        <!-- small inner teeth -->
+        <g stroke="#d6b48a" stroke-width="8">
+          <line x1="0" y1="-100" x2="0" y2="-120" />
+          <line x1="0" y1="100" x2="0" y2="120" />
+          <line x1="100" y1="0" x2="120" y2="0" />
+          <line x1="-100" y1="0" x2="-120" y2="0" />
+          <line x1="70" y1="70" x2="90" y2="90" />
+          <line x1="-70" y1="70" x2="-90" y2="90" />
+          <line x1="70" y1="-70" x2="90" y2="-90" />
+          <line x1="-70" y1="-70" x2="-90" y2="-90" />
+        </g>
+        <!-- overlay smaller gears -->
+        <g transform="translate(-140,0) scale(0.5)">
+          <circle r="100" class="artifact-gear" />
+          <circle r="50" fill="#2b1f15" />
+        </g>
+        <g transform="translate(140,0) scale(0.6)">
+          <circle r="100" class="artifact-gear" />
+          <circle r="50" fill="#2b1f15" />
+        </g>
+        <g transform="translate(0,140) scale(0.4)">
+          <circle r="100" class="artifact-gear" />
+          <circle r="40" fill="#2b1f15" />
+        </g>
+      </g>
+
+      <!-- Bottom gear replacing star/banner -->
+      <g transform="translate(0,660)">
+        <circle r="90" class="artifact-gear" />
+        <circle r="40" fill="#2b1f15" />
+        <g stroke="#d6b48a" stroke-width="6">
+          <line x1="0" y1="-90" x2="0" y2="-110" />
+          <line x1="0" y1="90" x2="0" y2="110" />
+          <line x1="90" y1="0" x2="110" y2="0" />
+          <line x1="-90" y1="0" x2="-110" y2="0" />
+          <line x1="64" y1="64" x2="80" y2="80" />
+          <line x1="-64" y1="64" x2="-80" y2="80" />
+          <line x1="64" y1="-64" x2="80" y2="-80" />
+          <line x1="-64" y1="-64" x2="-80" y2="-80" />
+        </g>
+      </g>
+
+    </g>
+  </g>
+</svg>
