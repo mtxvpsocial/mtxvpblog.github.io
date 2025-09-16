@@ -167,3 +167,75 @@
     .tag a{
       color: var(--tag-link-color);
     }
+
+    .nav-tabs {
+      border-bottom: var(--bs-nav-tabs-border-width) solid var(--muted);
+    }
+
+    .nav-tabs .nav-link.active {
+      background: color-mix(in srgb, var(--brand-accent) 40%, var(--card) 10%);
+      font-weight: 600;
+      color: var(--text);
+      border: var(--bs-nav-tabs-border-width) solid var(--muted);
+    }
+   
+    .nav-tabs .nav-link {
+      background: var(--bg);
+      color: var(--text);
+      border: var(--bs-nav-tabs-border-width) solid var(--muted);
+    }
+
+    /* Table styles */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      color: var(--text);
+      box-shadow: var(--shadow);
+      margin-bottom: 2rem;
+    }
+    .table > :not(caption) > * > * {
+      padding: 0.75em 1em;
+      border: 1px solid var(--muted);
+      background: var(--card);
+      color: var(--text);
+    }
+    .table > :not(caption) > * > th {
+      background: color-mix(in srgb, var(--brand-accent) 40%, var(--card) 10%);
+      font-weight: 600;
+      color: var(--text); /* or var(--header-text) if preferred */
+    }
+    .table > :not(caption) > tr:nth-child(even) > td {
+      background: color-mix(in srgb, var(--bg) 80%, var(--brand-accent) 20%);
+    }
+    .table > :not(caption) > tr:nth-child(odd) > td {
+      background: var(--card);
+    }
+
+    .form-control {
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--muted);
+    }
+    .form-control::placeholder {
+      color: var(--text);
+      opacity: 0.5;
+    }
+    .form-control:focus {
+      background: var(--bg);
+      color: var(--text);
+      border-color: var(--bg);
+      outline: none;
+      box-shadow: 0 0 0 2px color-mix(in srgb, var(--brand-accent) 60%, transparent 40%);
+    }
+    .form-control[readonly]{
+      background: var(--bg);
+      color: var(--muted);
+      border-style: dashed;
+    }
+    .form-control[disabled] {
+      background: var(--bg);
+      color: var(--muted);
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
