@@ -5,6 +5,13 @@
     <title>Max Vapor Pump</title>
     
     <entry>
+        <title>Erin</title>
+        <link href="https://blog.mtxvp.com/erin/"/>
+        <content type="html">Erin</content>
+        <published>2025-09-22T21:30:00</published>
+    </entry>
+    
+    <entry>
         <title>Experiences and Activities in Southern Ontario</title>
         <link href="https://blog.mtxvp.com/southern-ontario-experiences/"/>
         <content type="html">Experiences and Activities in Southern Ontario</content>
@@ -135,13 +142,6 @@
         <link href="https://blog.mtxvp.com/west-vancouver-capillano/"/>
         <content type="html">Capilano Suspension Bridge Park in West Vancouver</content>
         <published>2024-03-25T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>AWS Free Datasets: Part 2</title>
-        <link href="https://blog.mtxvp.com/aws-free-datasets-part-2/"/>
-        <content type="html">AWS Free Datasets: Part 2</content>
-        <published>2024-03-24T22:30:00</published>
     </entry>
     
 </feed>
