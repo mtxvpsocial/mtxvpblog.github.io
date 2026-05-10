@@ -5,31 +5,10 @@
     <title>Max Vapor Pump</title>
     
     <entry>
-        <title>Erin</title>
-        <link href="https://blog.mtxvp.com/erin/"/>
-        <content type="html">Erin</content>
-        <published>2025-09-22T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Experiences and Activities in Southern Ontario</title>
-        <link href="https://blog.mtxvp.com/southern-ontario-experiences/"/>
-        <content type="html">Experiences and Activities in Southern Ontario</content>
-        <published>2025-08-17T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Alton</title>
-        <link href="https://blog.mtxvp.com/alton/"/>
-        <content type="html">Alton</content>
-        <published>2025-08-16T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Quiet day in Lindsay, ON</title>
-        <link href="https://blog.mtxvp.com/lindsay/"/>
-        <content type="html">Quiet day in Lindsay, ON</content>
-        <published>2025-08-14T21:30:00</published>
+        <title>The office: Hive Mind series</title>
+        <link href="https://blog.mtxvp.com/hive-mind-the-office/"/>
+        <content type="html">The office: Hive Mind series</content>
+        <published>2026-05-10T21:30:00</published>
     </entry>
     
     <entry>
@@ -47,27 +26,6 @@
     </entry>
     
     <entry>
-        <title>Summer in Fenelon Falls, ON</title>
-        <link href="https://blog.mtxvp.com/fenelon-falls/"/>
-        <content type="html">Summer in Fenelon Falls, ON</content>
-        <published>2024-10-15T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Port Hope, Ontario</title>
-        <link href="https://blog.mtxvp.com/port-hope/"/>
-        <content type="html">Port Hope, Ontario</content>
-        <published>2024-09-21T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Cobourg, Ontario</title>
-        <link href="https://blog.mtxvp.com/cobourg/"/>
-        <content type="html">Cobourg, Ontario</content>
-        <published>2024-09-08T21:30:00</published>
-    </entry>
-    
-    <entry>
         <title>Reflections</title>
         <link href="https://blog.mtxvp.com/reflection/"/>
         <content type="html">Reflections</content>
@@ -75,31 +33,10 @@
     </entry>
     
     <entry>
-        <title>Behind the scenes of Toronto Billy Bishop airport</title>
-        <link href="https://blog.mtxvp.com/billy-bishop-airport/"/>
-        <content type="html">Behind the scenes of Toronto Billy Bishop airport</content>
-        <published>2024-08-30T10:23:00</published>
-    </entry>
-    
-    <entry>
         <title>Street clocks and sundials of Canadian towns</title>
         <link href="https://blog.mtxvp.com/street-clocks-of-canadian-towns/"/>
         <content type="html">Street clocks and sundials of Canadian towns</content>
         <published>2024-08-27T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Elora and Elora Gorge, Ontario</title>
-        <link href="https://blog.mtxvp.com/elora/"/>
-        <content type="html">Elora and Elora Gorge, Ontario</content>
-        <published>2024-08-02T21:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Historic Quebec City</title>
-        <link href="https://blog.mtxvp.com/historic-quebec-city/"/>
-        <content type="html">Historic Quebec City</content>
-        <published>2024-07-07T21:30:00</published>
     </entry>
     
     <entry>
@@ -117,31 +54,24 @@
     </entry>
     
     <entry>
-        <title>Quebec City - Fortifications &amp; Citadelle</title>
-        <link href="https://blog.mtxvp.com/quebec-city-fortifications-and-citadelle/"/>
-        <content type="html">Quebec City - Fortifications &amp; Citadelle</content>
-        <published>2024-04-17T21:30:00</published>
+        <title>AWS Free Datasets: Part 2</title>
+        <link href="https://blog.mtxvp.com/aws-free-datasets-part-2/"/>
+        <content type="html">AWS Free Datasets: Part 2</content>
+        <published>2024-03-24T22:30:00</published>
     </entry>
     
     <entry>
-        <title>Royal Botanical Gardens - Rock Garden</title>
-        <link href="https://blog.mtxvp.com/royal-botanical-gardens-rock-garden/"/>
-        <content type="html">Royal Botanical Gardens - Rock Garden</content>
-        <published>2024-04-09T21:30:00</published>
+        <title>Lapdock or DIY: overview of smartphone based mobile computing solutions</title>
+        <link href="https://blog.mtxvp.com/catalogue-of-mobile-computing-options/"/>
+        <content type="html">Lapdock or DIY: overview of smartphone based mobile computing solutions</content>
+        <published>2024-03-18T22:30:00</published>
     </entry>
     
     <entry>
-        <title>Royal Botanical Gardens - Hendrie Park</title>
-        <link href="https://blog.mtxvp.com/royal-botanical-gardens-hendrie-park/"/>
-        <content type="html">Royal Botanical Gardens - Hendrie Park</content>
-        <published>2024-04-01T22:30:00</published>
-    </entry>
-    
-    <entry>
-        <title>Capilano Suspension Bridge Park in West Vancouver</title>
-        <link href="https://blog.mtxvp.com/west-vancouver-capillano/"/>
-        <content type="html">Capilano Suspension Bridge Park in West Vancouver</content>
-        <published>2024-03-25T22:30:00</published>
+        <title>AWS Free Datasets: Part 1</title>
+        <link href="https://blog.mtxvp.com/aws-free-datasets-part-1/"/>
+        <content type="html">AWS Free Datasets: Part 1</content>
+        <published>2024-01-24T22:30:00</published>
     </entry>
     
 </feed>
